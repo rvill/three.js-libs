@@ -1,2 +1,2 @@
 # three.js-libs
-Backbone libs 
+Backbone libraries for three.js applications
